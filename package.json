@@ -1,0 +1,24 @@
+{
+  "name": "agentmesh-protocol",
+  "version": "1.0.0",
+  "description": "Autonomous AI Agent Marketplace & Cryptographic Call-Tree Settlement Protocol on Arc L1 (Circle)",
+  "scripts": {
+    "test:contracts": "npm --prefix contracts run test",
+    "deploy:contracts": "npm --prefix contracts run deploy",
+    "start:agents": "npm --prefix agents start",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build"
+  },
+  "keywords": [
+    "arc",
+    "circle",
+    "usdc",
+    "ai-agents",
+    "autonomous-agents",
+    "agentic-commerce",
+    "eip-712",
+    "smart-contracts"
+  ],
+  "author": "AgentMesh Core Team",
+  "license": "MIT"
+}
